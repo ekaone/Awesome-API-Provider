@@ -930,6 +930,7 @@ Original resources from [public-apis](https://github.com/public-apis/public-apis
 | [Sunrise and Sunset](https://sunrise-sunset.org/api)                           | Sunset and sunrise times for a given latitude and longitude                                  | No       | Yes   | Unknown |
 | [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquakes data real-time                                                                   | No       | Yes   | Unknown |
 | [USGS Water Services](https://waterservices.usgs.gov/)                         | Water quality and level info for rivers and lakes                                            | No       | Yes   | Unknown |
+| [Vedika](https://vedika.io)                                                    | AI-powered Vedic astrology API with 108+ endpoints                                            | `apiKey` | Yes   | Yes     |
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)   | World Data                                                                                   | No       | No    | Unknown |
 
 **[⬆ Back to Index](#index)**
