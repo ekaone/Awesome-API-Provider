@@ -728,6 +728,7 @@ Original resources from [public-apis](https://github.com/public-apis/public-apis
 | [OpenVisionAPI](https://openvisionapi.com)                                        | Open source computer vision API based on open source models                                       | No       | Yes   | Yes     |
 | [Time Door](https://timedoor.io)                                                  | A time series analysis API                                                                        | `apiKey` | Yes   | Yes     |
 | [Unplugg](https://unplu.gg/test_api.html)                                         | Forecasting API for timeseries data                                                               | `apiKey` | Yes   | Unknown |
+| [Vedika API](https://vedika.io)                                                  | AI-powered Vedic Astrology API with 108+ endpoints, 22 languages, AI chatbot                    | `apiKey` | Yes   | Unknown |
 | [Wit.ai](https://wit.ai/)                                                         | Natural Language Processing                                                                       | `OAuth`  | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
